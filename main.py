@@ -1,4 +1,4 @@
-# shopify career intro #
+# Shopify career exercise 1 #
 # Author/Date: Thiago Lang - Jan-22 #
 # Program: Read Order Overview #
 
